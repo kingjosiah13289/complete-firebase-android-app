@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179173500816",
+    "project_id": "my-2023-morning-app-ae1aa",
+    "storage_bucket": "my-2023-morning-app-ae1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179173500816:android:bddede815553aa5ba9f515",
+        "android_client_info": {
+          "package_name": "com.example.morningfirebasedbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179173500816-ta3fc8ajl7ea37mv1bsbju2jdpn60iv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-5e5gq5p97QUuXllR0MPNN5ZEecttOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179173500816-ta3fc8ajl7ea37mv1bsbju2jdpn60iv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
